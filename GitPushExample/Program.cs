@@ -10,6 +10,7 @@ namespace GitPushExample
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Heloo world..");
         }
     }
 }
